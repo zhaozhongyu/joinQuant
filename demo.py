@@ -1,5 +1,5 @@
 from jqdatasdk import *
-auth('13723401432','Huawei123')
+auth('手机号','密码')
 '''
 上证: XSHG
 深证: XSHE

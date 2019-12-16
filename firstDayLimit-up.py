@@ -1,7 +1,7 @@
 # -*- encoding: utf8 -*-
 # 计算首日涨停板后， 第二天开盘买入的获利概率
 from jqdatasdk import *
-auth('13723401432','Huawei123')
+auth('手机号','密码')
 # 获取所有股票代号
 stocks = list(get_all_securities(['stock']).index)
 # 获取所有股票价格
